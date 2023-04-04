@@ -26,7 +26,7 @@ h2 {
   font-size: 64px;
 }
 p {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 30px;
   font-weight: normal;
 }
@@ -89,5 +89,8 @@ p {
   }
   .hero {
     padding: 80px 20px;
+  }
+  .bottom {
+    margin-bottom: 10px;
   }
 }
